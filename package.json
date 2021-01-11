@@ -1,0 +1,21 @@
+{
+  "name": "music-bot",
+  "main": "index.js",
+  "author": "Sasori Sama",
+  "version": "5.0.0",
+  "repository": "https://github.com/ZerioDev/Music-bot.git",
+  "description": "A complete code to download for a music bot. Using a module (discord-player).",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord-player": "^3.2.1",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "git": "^0.1.5",
+    "ms": "^2.1.2",
+    "snekfetch": "^4.0.4",
+    "ytdl-core": "^4.4.2"
+  }
+}
