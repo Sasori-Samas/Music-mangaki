@@ -1,12 +1,15 @@
 {
-  {
   "name": "myapp",
   "description": "a really cool app",
   "version": "1.0.0",
   "engines": {
-    "node": "14.x"
-  "scripts": {
-    "start": "node index.js"
+    "yarn": "1.x"
+  }
+}
+"scripts": {
+  "start": "node index.js",
+  "build": "webpack"
+}
   },
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
