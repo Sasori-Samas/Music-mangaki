@@ -1,6 +1,6 @@
 {
   "name": "myapp",
-  "description": "a really cool app",
+  "description": "a really cool bot",
   "version": "1.0.0",
   "engines": {
     "yarn": "1.x"
