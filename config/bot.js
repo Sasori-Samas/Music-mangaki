@@ -8,9 +8,9 @@ module.exports = {
     },
 
     discord: {
-        token: 'Nzk2MDg1NjA5MDI2Mjg5NjY3.X_Syfw.Vnz7pb_nT-N15ajYEln21sAK1qg',
+        token: 'ODkyNTY3MTY0MTE1MDkxNDU3.YVOx8w.AEz5FvP66IJSo4iq9FG0UPI6-0s.X_Syfw.Vnz7pb_nT-N15ajYEln21sAK1qg',
         prefix: '+',
-        activity: '+Help/ Add Sasori Sama#0002 for help ! ',
+        activity: '.gg/Midnight! ',
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
