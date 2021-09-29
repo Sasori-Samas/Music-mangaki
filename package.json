@@ -5,6 +5,7 @@
   "version": "5.0.0",
   "engines": {
     "node": "14.x"
+
   "repository": "https://github.com/ZerioDev/Music-bot.git",
   "description": "A complete code to download for a music bot. Using a module (discord-"node": "14.x"
   "scripts": {
