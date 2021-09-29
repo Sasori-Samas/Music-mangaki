@@ -3,7 +3,7 @@
   "name": "music-bot",
   "main": "index.js",
   "author": "LightAnime",
-  "version": "5.0.0",
+  "version": "6.0.0",
 
  "engines": {
     "node": "14.x"
@@ -14,9 +14,10 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "@discordjs/opus": "^0.3.3",
-    "discord-player": "^3.2.0",
-    "discord.js": "^12.5.1",
-    "ffmpeg-static": "^4.2.7"
+    "discord-player": "^5.1.0",
+    "discord.js": "^13.1.0",
+    "ffmpeg-static": "^4.4.0",
+    "ms": "^3.0.0-canary.1",
+    "opusscript": "^0.0.8"
   }
 }
