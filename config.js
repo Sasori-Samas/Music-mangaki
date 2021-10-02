@@ -2,7 +2,7 @@
 module.exports = {
     app: {
         px: '',
-        token: 'ODkyNTY3MTY0MTE1MDkxNDU3.YVOx8w.AEz5FvP66IJSo4iq9FG0UPI6-0s',
+        token: 'ODkyNTY3MTY0MTE1MDkxNDU3.YVOx8w.XtCGKo7GZ1zECrBPMyfGa6FbJlw',
         playing: '.gg/midnight ',
     },
 
