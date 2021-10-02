@@ -18,5 +18,5 @@ global.player = new Player(client, client.config.opt.discordPlayer);
 require('./src/loader');
 require('./src/events'); 
 
-client.login(client.config.discord.token); 
+client.login(process.env.token); 
 
